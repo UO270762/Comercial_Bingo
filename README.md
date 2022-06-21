@@ -15,6 +15,9 @@ solo hay que añadirlos en el fichero tickets.dat del directorio files
 
 <p align="center">
 -Especifiaciones técnicas-
+</p>
+
+<p align="center">
 Desarrollado en Java 16.0.2 y herramienta WindowBuilder
 </p>
 
