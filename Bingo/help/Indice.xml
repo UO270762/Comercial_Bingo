@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+		<indexitem text="Descripcion del bingo compra y gana" target="Introduccion" />
+		<indexitem text="Como jugar" target="como jugar" />
+		<indexitem text="Reclamar premios" target="reclamar premios" />
+		<indexitem text="Consultar mi saldo" target="consultar saldo">
+		<indexitem text="Cambiar idioma" target="cambiar idioma"/>	
+		<indexitem text="Registro/identificacion" target="registro/Identificacion" />	
+</index>
